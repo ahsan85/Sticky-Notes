@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b74e87d-af78-46f8-b1cf-cdfc1dbc666d" name="Default Changelist" comment="" />
+    <list default="true" id="0b74e87d-af78-46f8-b1cf-cdfc1dbc666d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,20 +17,27 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1RTOxdDeWbZf0a6DHqtsLC0ANho" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GCU" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -55,7 +67,34 @@
       <workItem from="1569766773368" duration="11070000" />
       <workItem from="1569820958027" duration="2340000" />
       <workItem from="1569847474308" duration="2714000" />
-      <workItem from="1569900813616" duration="599000" />
+      <workItem from="1569900813616" duration="2489000" />
+      <workItem from="1569904945983" duration="873000" />
+      <workItem from="1569935849823" duration="792000" />
+      <workItem from="1569936698152" duration="1284000" />
+      <workItem from="1569951351610" duration="42000" />
+      <workItem from="1570008064870" duration="605000" />
+      <workItem from="1570026772587" duration="3646000" />
+      <workItem from="1570208177776" duration="5324000" />
+      <workItem from="1570251812908" duration="3143000" />
+      <workItem from="1570264248318" duration="3291000" />
+      <workItem from="1570288997337" duration="3694000" />
+      <workItem from="1570369997944" duration="1836000" />
+      <workItem from="1570381149494" duration="37000" />
+      <workItem from="1570382599628" duration="759000" />
+      <workItem from="1570476060938" duration="915000" />
+      <workItem from="1570727504378" duration="3569000" />
+      <workItem from="1570881343210" duration="8739000" />
+      <workItem from="1570954202820" duration="4698000" />
+      <workItem from="1570989709390" duration="1387000" />
+      <workItem from="1571073447949" duration="3005000" />
+      <workItem from="1571157470907" duration="599000" />
+      <workItem from="1571161153058" duration="16000" />
+      <workItem from="1571289839744" duration="3302000" />
+      <workItem from="1571373860694" duration="2552000" />
+      <workItem from="1571397074360" duration="778000" />
+      <workItem from="1571417889829" duration="3506000" />
+      <workItem from="1571482860708" duration="2780000" />
+      <workItem from="1571500393003" duration="7940000" />
     </task>
     <servers />
   </component>
@@ -63,9 +102,21 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="518" y="287" key="NewPhpFileDialog" timestamp="1569687883375">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1570381183191">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="518" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1569687883375" />
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1570381183191" />
+    <state x="518" y="287" key="NewPhpFileDialog" timestamp="1571074265271">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="518" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1571074265271" />
+    <state x="168" y="6" key="SettingsEditor" timestamp="1570884607324">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="168" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1570884607324" />
+    <state x="346" y="49" key="search.everywhere.popup" timestamp="1571074246409">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1571074246409" />
   </component>
 </project>
